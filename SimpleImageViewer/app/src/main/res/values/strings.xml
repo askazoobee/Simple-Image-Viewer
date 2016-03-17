@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SimpleImageViewer</string>
+
+    <string name="title_activity_image_view">ImageViewActivity</string>
+    <string name="download_button">Download!</string>
+    <string name="url_hint">Paste URL</string>
+
+    <string name="error_download">Check URL address and try again.</string>
+    <string name="error_connection">Check internet connection and try again.</string>
+    <string name="error_wrong">Something went wrong downloading the image</string>
+
+</resources>
